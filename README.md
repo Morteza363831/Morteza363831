@@ -57,8 +57,6 @@ I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <!--
 **Morteza363831/Morteza363831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
