@@ -59,8 +59,8 @@
 
 <div>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morteza363831/morteza363831/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morteza363831/morteza363831/output/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Morteza363831/Morteza363831/345e37e89862c5d32b939b5e2667295489a37014/github-contribution-grid-snake-dark.svg" />
+  
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/morteza363831/morteza363831/output/dist/github-contribution-grid-snake.svg" />
 </picture>
 </div>
