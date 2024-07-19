@@ -23,8 +23,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          color_snake: green  # Set the snake color to green
+          color_snake: orange  # Set the snake color to orange
           color_dots: "#00ff00,#00cc00,#009900,#006600,#003300"  # Gradient of greens for contributions
+          # Customize the shape of the contribution grid to form the name "morteza"
+          contribution_shape: "morteza"  # This option may not exist; see notes below
 
       - name: Push GitHub Contribution Grid Snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
