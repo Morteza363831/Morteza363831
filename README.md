@@ -32,26 +32,29 @@
 
 <div>
 <pre>
-@\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
-@|                                                                            |#
-@|          /\                                                                |#
-@|         /==\        Programming is a journey of exploration;               |#
-@|        /____\       where every challenge is an opportunity to learn.      |#
-@|       |      |      Embrace the unknown, and let curiosity lead the way.   |#
-@|       |  /\  |      While ( ! (succeed = try()) ) {                        |#
-@|       | /==\ |      // Each attempt brings you closer to mastery           |#
-@|       |/____\|      }                                                      |#
-@|      /        \     Debugging is just another word for learning;           |#
-@|     |          |    every error is a lesson in disguise.                   |#
-@|     |   [==]   |                                                           |#
-@|     |   [==]   |                                                           |#
-@|     |          |                                                           |#
-@|     |   [==]   |                                                           |#
-@|     |   [==]   |                                                           |#
-@|     |          |                                                           |#
-@|     |__________|                                                           |#
-@|                                                                            |#
-@\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
+@\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
+@|                                                                              |#
+@|            /\                                                                |#
+@|           /==\        Programming is a journey of exploration;               |#
+@|          /____\       where every challenge is an opportunity to learn.      |#
+@|         |      |      Embrace the unknown, and let curiosity lead the way.   |#
+@|         |  /\  |      While ( ! (succeed = try()) ) {                        |#
+@|         | /==\ |      // Each attempt brings you closer to mastery           |#
+@|         |/____\|      }                                                      |#
+@|        /        \     Debugging is just another word for learning;           |#
+@|       |          |    every error is a lesson in disguise.                   |#
+@|       |   [==]   |                                                           |#
+@|       |   [==]   |                                                           |#
+@|       |          |                                                           |#
+@|       |   [==]   |                                                           |#
+@|       |   [==]   |                                                           |#
+@|       |          |                                                           |#
+@|       |__________|                                                           |#
+@|      /            \                                                          |#
+@|     /              \                                                         |#
+@|    /                \                                                        |#
+@|   /                  \                                                       |#
+@\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
 </pre>
 </div>
 <div align="center">
