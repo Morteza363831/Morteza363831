@@ -91,7 +91,10 @@ I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morteza363831&theme=java-dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morteza363831&show_icons=true&theme=highcontrast)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morteza363831&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### :writing_hand: Blog Posts :
 
