@@ -32,25 +32,26 @@
 
 <div>
 <pre>
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
+@|                                                                            |#
+@|          /\                                                                |#
+@|         /==\        Programming is a journey of exploration;               |#
+@|        /____\       where every challenge is an opportunity to learn.      |#
+@|       |      |      Embrace the unknown, and let curiosity lead the way.   |#
+@|       |  /\  |      While ( ! (succeed = try()) ) {                        |#
+@|       | /==\ |      // Each attempt brings you closer to mastery           |#
+@|       |/____\|      }                                                      |#
+@|      /        \     Debugging is just another word for learning;           |#
+@|     |          |    every error is a lesson in disguise.                   |#
+@|     |   [==]   |                                                           |#
+@|     |   [==]   |                                                           |#
+@|     |          |                                                           |#
+@|     |   [==]   |                                                           |#
+@|     |   [==]   |                                                           |#
+@|     |          |                                                           |#
+@|     |__________|                                                           |#
+@|                                                                            |#
+@\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
 </pre>
 </div>
 <div align="center">
