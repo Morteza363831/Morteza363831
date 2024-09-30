@@ -19,7 +19,7 @@
 
 <h1 align="center">
   hey there
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRmNjFqemp3dmdmd2gyZjd0amE3NmZrYXBuN3hldzVwMGpwdHlpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://giphy.com/gifs/rickandmorty-season-4-episode-rick-and-morty-iheC31U2y32TZdWw7P" width="30px"/>
 </h1>
 
 <div align="center">
