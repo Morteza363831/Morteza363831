@@ -19,11 +19,11 @@
 
 <h1 align="center">
   hey there
-  <img src="https://giphy.com/gifs/rickandmorty-season-4-episode-rick-and-morty-iheC31U2y32TZdWw7P" width="30px"/>
+  <img src="" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/c293c031631df0f918c76c19aaca12c3c102314e5e0e327f5c7ad937e6f1928b/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966"/>
+  <img src="https://media3.giphy.com/media/iheC31U2y32TZdWw7P/giphy.gif?cid=6c09b952mrxcnc94ixuueh10ntnxhvetk5y1vizehf4dpmk0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 </div>
 
 <div align="center">
