@@ -1,37 +1,32 @@
-<div id="header" align="center">
+<p align="center">
   <img src="https://i.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100"/>
-</div>
+</p>
 
-<div id="badges" align="center" >
+<h1 align="center">🌐 Connect with Me</h1>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/morteza-mahdi-zadeh-2a0090303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="ali16mar15couples@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:ali16mar15couples@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="http://t.me/m_mhzd">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
-</div>
-<div align="center">
-  <img  src="https://komarev.com/ghpvc/?username=morteza363831&style=flat-square&color=blue" alt=""/>
-</div>
+</p>
 
-<h1 align="center">
-  hey there
-  <img src="" width="30px"/>
-</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=morteza363831&style=flat-square&color=blue"/>
+</p>
 
-<div align="center">
+<h1 align="center">Hey there 👋</h1>
+
+<p align="center">
   <img src="https://media3.giphy.com/media/iheC31U2y32TZdWw7P/giphy.gif?cid=6c09b952mrxcnc94ixuueh10ntnxhvetk5y1vizehf4dpmk0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
-</div>
+</p>
 
-<div align="center">
-
-</div>
-
-<div>
-<pre>
+```
 @\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
 @|                                                                              |#
 @|            /\                                                                |#
@@ -56,8 +51,7 @@
 @|   /                  \                                                       |#
 @|                                                                              |#
 @\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/#
-</pre>
-</div>
+```
 <div align="center">
 
 </div>
@@ -96,7 +90,7 @@ I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Morteza363831&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morteza363831&show_icons=true&theme=highcontrast)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morteza363831&show_icons=true&theme=highcontrast)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morteza363831&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
